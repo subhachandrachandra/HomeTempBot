@@ -1,0 +1,1 @@
+0 * * * * root /root/NestTemp.py >> /data/NestSensors.txt 2>&1
